@@ -1,0 +1,11 @@
+{
+  "name": "avl-tree",
+  "version": "1.0.0",
+  "description": "implementação de árvore binária de pesquisa balanceada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Victor",
+  "license": "ISC"
+}
